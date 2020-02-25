@@ -1,0 +1,2 @@
+/Users/lucasvaz/Desktop/Berkeley/GameDev/BulletHell/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/lucasvaz/Desktop/Berkeley/GameDev/BulletHell/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
